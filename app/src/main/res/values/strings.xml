@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pg1</string>
+    <string name="welcome_to_konoha_library">Welcome to Konoha Library</string>
+    <string name="START">START</string>
+    <string name="NEXT">NEXT</string>g>
+    <string name="martin_carter_road">Martin Carter Road</string>
+    <string name="opposite_five_gardens">Opposite Five Gardens</string>
+    <string name="mumbai_maharashtra_40047">Mumbai,Maharashtra 40047</string>
+    <string name="come_here_to_gain_knowlege_about_anything_you_are_curious_about">Come here to gain knowlege about anything you are curious about.</string>
+    <string name="library_will_be_open_from_morning_6am_upto_7pm_in_the_late_evening">Library will be open from morning 6am upto 7pm in the late evening</string>
+    <string name="click">CLICK TO GET DIRECTION</string>
+    <string name="thank_you">THANK YOU!</string>
+    <string name="exit">EXIT</string>
+    <string name="homepage">HOMEPAGE</string>
+    <string name="welcome_to_victoria_library">Welcome to Victoria Library</string>
+</resources>
